@@ -412,3 +412,4 @@ def shedule_todays(message):
         bot.send_message(message.chat.id, 'Данные недоступны!')
 
 bot.infinity_polling()
+
